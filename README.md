@@ -1,2 +1,3 @@
-# HEA
-HighEntropyAlloys
+# HEO
+HighEntropyOxides
+
